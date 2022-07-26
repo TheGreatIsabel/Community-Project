@@ -5,7 +5,7 @@ This project is a community collaboration project between Western University and
 
 The data used in this project are directly obtained from Statistics Canada’s open source data tables, some simple data cleaning and pre-processing are performed before analysis, such as removing null values and unifying the units of measure. The main analysis performed are exploratory data visualization, aiming to identify patterns and/or abnormalities. Once a pattern is identified, further analysis will be conducted using both relevant event information and other data sources. 
 
-In the analysis, I built a simple mathematical model attempt to estimate the monthly employment rate by industry in London. Due to the lack of local disaggregated data, this information was publicly available only to the provincial level and a few metropolitan areas. Please refer to the report for detailed derivation. 
+In the analysis, my teammate and I built a simple mathematical model attempt to estimate the monthly employment rate by industry in London. Due to the lack of local disaggregated data, this information was publicly available only to the provincial level and a few metropolitan areas. Please refer to the report for detailed derivation. 
 
 The research found that there is a differentiated impact in terms of employment for immigrants and Indigenous populations in London, as they are most represented in industries that are heavily impacted by COVID-19, such as hospitality services and retail. The findings are presented in report form and reported as a presentation to the City Studio staff, please find both the report and slides in the repo. 
 
